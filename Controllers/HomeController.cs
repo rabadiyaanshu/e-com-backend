@@ -27,7 +27,7 @@ namespace WebLoginRegisterApi.Controllers
                 if (existingUser != null)
                     return BadRequest(new { error = "User already exists" });
 
-                // Optional: hash password here before saving (recommended)
+                
                 _context.Users.Add(user);
                 await _context.SaveChangesAsync();
 
@@ -67,7 +67,7 @@ namespace WebLoginRegisterApi.Controllers
                 if (user == null)
                     return NotFound(new { error = "User not found" });
 
-                user.Password = request.NewPassword; // ❗ Ideally, hash this
+                user.Password = request.NewPassword;
                 await _context.SaveChangesAsync();
 
                 return Ok(new { message = "Password updated successfully" });
