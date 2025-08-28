@@ -24,7 +24,7 @@ namespace WebLoginRegisterApi.Model
         public string Phone { get; set; }
         public string PaymentMethod { get; set; }
 
-        // For record keeping
+        
         public DateTime OrderDate { get; set; } = DateTime.Now;
 
     }
