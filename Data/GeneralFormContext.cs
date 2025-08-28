@@ -9,7 +9,7 @@ namespace WebLoginRegisterApi.Data
         {
         }
 
-        // DbSet for the GeneralForm model
+       
         public DbSet<GeneralForm> Forms { get; set; }
     }
 }
