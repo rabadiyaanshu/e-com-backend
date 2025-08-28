@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebLoginRegisterApi.Model
 {
-    [Table("Users")] // <-- Add this line
+    [Table("Users")] 
     public class UserModel
     {
         public int Id { get; set; }
