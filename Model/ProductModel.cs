@@ -13,6 +13,6 @@ namespace WebLoginRegisterApi.Model
 
         public decimal Price { get; set; }
 
-        public string ImageUrl { get; set; }  // ✅ This will store the path to the product image
+        public string ImageUrl { get; set; } 
     }
 }
