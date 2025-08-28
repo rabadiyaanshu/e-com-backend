@@ -16,7 +16,7 @@ namespace WebLoginRegisterApi.Controllers
             _context = context;
         }
 
-        // ✅ Register if not exists, else alert
+        
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] UserModel model)
         {
