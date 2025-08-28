@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebLoginRegisterApi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebLoginRegisterApi.rat60i2hkz.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\1.jpeg",
+      "PackagePath": "staticwebassets\\image\\1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\2.jpeg",
+      "PackagePath": "staticwebassets\\image\\2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\2.webp",
+      "PackagePath": "staticwebassets\\image\\2.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\3.jfif",
+      "PackagePath": "staticwebassets\\image\\3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\3.jpg",
+      "PackagePath": "staticwebassets\\image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\4.avif",
+      "PackagePath": "staticwebassets\\image\\4.avif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\4.jpeg",
+      "PackagePath": "staticwebassets\\image\\4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\5.jpeg",
+      "PackagePath": "staticwebassets\\image\\5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\6.jpeg",
+      "PackagePath": "staticwebassets\\image\\6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\6.webp",
+      "PackagePath": "staticwebassets\\image\\6.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\7.jpg",
+      "PackagePath": "staticwebassets\\image\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\8.avif",
+      "PackagePath": "staticwebassets\\image\\8.avif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\8.jpg",
+      "PackagePath": "staticwebassets\\image\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\all_product.js",
+      "PackagePath": "staticwebassets\\image\\all_product.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\arrow_icon.png",
+      "PackagePath": "staticwebassets\\image\\arrow_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\banner.jpg",
+      "PackagePath": "staticwebassets\\image\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\cart_icon.png",
+      "PackagePath": "staticwebassets\\image\\cart_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\data.js",
+      "PackagePath": "staticwebassets\\image\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\dropdown_icon.png",
+      "PackagePath": "staticwebassets\\image\\dropdown_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\exclu.webp",
+      "PackagePath": "staticwebassets\\image\\exclu.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\exclues.jpeg",
+      "PackagePath": "staticwebassets\\image\\exclues.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\exclusive.webp",
+      "PackagePath": "staticwebassets\\image\\exclusive.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\exclusive_image.webp",
+      "PackagePath": "staticwebassets\\image\\exclusive_image.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\facebook.png",
+      "PackagePath": "staticwebassets\\image\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\hand_icon.png",
+      "PackagePath": "staticwebassets\\image\\hand_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\images.jpeg",
+      "PackagePath": "staticwebassets\\image\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\instagram.png",
+      "PackagePath": "staticwebassets\\image\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\kid1.jpeg",
+      "PackagePath": "staticwebassets\\image\\kid1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\kid10.jfif",
+      "PackagePath": "staticwebassets\\image\\kid10.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\kid2.jpeg",
+      "PackagePath": "staticwebassets\\image\\kid2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\kid3.jfif",
+      "PackagePath": "staticwebassets\\image\\kid3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\kid4.webp",
+      "PackagePath": "staticwebassets\\image\\kid4.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\kid5.jfif",
+      "PackagePath": "staticwebassets\\image\\kid5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\kid6.jfif",
+      "PackagePath": "staticwebassets\\image\\kid6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\kid7.webp",
+      "PackagePath": "staticwebassets\\image\\kid7.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\kid8.jfif",
+      "PackagePath": "staticwebassets\\image\\kid8.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\kid9.jpg",
+      "PackagePath": "staticwebassets\\image\\kid9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\kids_banner.jpg",
+      "PackagePath": "staticwebassets\\image\\kids_banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\logo.webp",
+      "PackagePath": "staticwebassets\\image\\logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\men.webp",
+      "PackagePath": "staticwebassets\\image\\men.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\men1.jpeg",
+      "PackagePath": "staticwebassets\\image\\men1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\men2.jpg",
+      "PackagePath": "staticwebassets\\image\\men2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\men3.jpeg",
+      "PackagePath": "staticwebassets\\image\\men3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\men4.jfif",
+      "PackagePath": "staticwebassets\\image\\men4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\men5.jpeg",
+      "PackagePath": "staticwebassets\\image\\men5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\men6.jpeg",
+      "PackagePath": "staticwebassets\\image\\men6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\men7.jpeg",
+      "PackagePath": "staticwebassets\\image\\men7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\men8.jpg",
+      "PackagePath": "staticwebassets\\image\\men8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\newcollections.js",
+      "PackagePath": "staticwebassets\\image\\newcollections.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p1.jfif",
+      "PackagePath": "staticwebassets\\image\\p1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p1.jpg",
+      "PackagePath": "staticwebassets\\image\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p1.png",
+      "PackagePath": "staticwebassets\\image\\p1.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p10.avif",
+      "PackagePath": "staticwebassets\\image\\p10.avif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p11.png",
+      "PackagePath": "staticwebassets\\image\\p11.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p12.jpg",
+      "PackagePath": "staticwebassets\\image\\p12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p2.jpg",
+      "PackagePath": "staticwebassets\\image\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p2.png",
+      "PackagePath": "staticwebassets\\image\\p2.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p3.png",
+      "PackagePath": "staticwebassets\\image\\p3.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p4.jpg",
+      "PackagePath": "staticwebassets\\image\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p4.webp",
+      "PackagePath": "staticwebassets\\image\\p4.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p5.png",
+      "PackagePath": "staticwebassets\\image\\p5.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p6.jpeg",
+      "PackagePath": "staticwebassets\\image\\p6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p7.png",
+      "PackagePath": "staticwebassets\\image\\p7.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p8.webp",
+      "PackagePath": "staticwebassets\\image\\p8.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\p9.png",
+      "PackagePath": "staticwebassets\\image\\p9.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\remove.webp",
+      "PackagePath": "staticwebassets\\image\\remove.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\star_dull_icon.png",
+      "PackagePath": "staticwebassets\\image\\star_dull_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\star_icon.png",
+      "PackagePath": "staticwebassets\\image\\star_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\whatsapp.png",
+      "PackagePath": "staticwebassets\\image\\whatsapp.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\women1.jpg",
+      "PackagePath": "staticwebassets\\image\\women1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\women2.jpg",
+      "PackagePath": "staticwebassets\\image\\women2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\women3.jpg",
+      "PackagePath": "staticwebassets\\image\\women3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\women4.jpeg",
+      "PackagePath": "staticwebassets\\image\\women4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\women5.webp",
+      "PackagePath": "staticwebassets\\image\\women5.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\women6.webp",
+      "PackagePath": "staticwebassets\\image\\women6.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\women7.webp",
+      "PackagePath": "staticwebassets\\image\\women7.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\women8.jfif",
+      "PackagePath": "staticwebassets\\image\\women8.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\image\\women_banner.avif",
+      "PackagePath": "staticwebassets\\image\\women_banner.avif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\094fef3c-03f3-4b88-a715-9f0a1af0c959.webp",
+      "PackagePath": "staticwebassets\\uploads\\094fef3c-03f3-4b88-a715-9f0a1af0c959.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\0a6e77c4-2614-4591-a11d-d596694f144b.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\0a6e77c4-2614-4591-a11d-d596694f144b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\0d25a1dd-fbc2-4389-98d5-f9d4d538f53b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0d25a1dd-fbc2-4389-98d5-f9d4d538f53b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\11d46750-3e5a-43d6-aa36-73133a78b9fc.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\11d46750-3e5a-43d6-aa36-73133a78b9fc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\13003b73-36b6-40fc-9fca-447af14afc38.jfif",
+      "PackagePath": "staticwebassets\\uploads\\13003b73-36b6-40fc-9fca-447af14afc38.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\1baa8472-1e9e-4cfd-9a50-a95f06a09752.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1baa8472-1e9e-4cfd-9a50-a95f06a09752.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\1cca4823-6d0e-44da-8afc-db11c19f229f.jfif",
+      "PackagePath": "staticwebassets\\uploads\\1cca4823-6d0e-44da-8afc-db11c19f229f.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\1d9d1ead-34d0-4b4a-8c3c-31391ac075c3.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\1d9d1ead-34d0-4b4a-8c3c-31391ac075c3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\1f8b4ae6-4cbf-4c5a-afc9-0895f3293c1a.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\1f8b4ae6-4cbf-4c5a-afc9-0895f3293c1a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\28574249-cfee-447a-b2a8-540d6bebc83a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\28574249-cfee-447a-b2a8-540d6bebc83a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\296ad1c6-5286-455e-a8e6-533a483cb3fc.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\296ad1c6-5286-455e-a8e6-533a483cb3fc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\318ddd1e-4c03-47ea-ac0c-053e4b803a9b.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\318ddd1e-4c03-47ea-ac0c-053e4b803a9b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\33651d76-c546-43f8-a14c-72d1eac9209f.jfif",
+      "PackagePath": "staticwebassets\\uploads\\33651d76-c546-43f8-a14c-72d1eac9209f.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\37532ec0-dd1a-49f7-bd3c-14b0af45b16a.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\37532ec0-dd1a-49f7-bd3c-14b0af45b16a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\3c03e9fc-128f-4bff-898a-55c438781f4e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3c03e9fc-128f-4bff-898a-55c438781f4e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\3c20be2e-d482-4d50-8411-725c62676b41.jfif",
+      "PackagePath": "staticwebassets\\uploads\\3c20be2e-d482-4d50-8411-725c62676b41.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\3e8413cb-3a7f-4df0-99e8-f55684793384.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\3e8413cb-3a7f-4df0-99e8-f55684793384.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\42eaa208-6ae3-482a-9d53-aabb5995530f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\42eaa208-6ae3-482a-9d53-aabb5995530f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\44c33904-9de1-4e7f-8145-de2176f67e5e.avif",
+      "PackagePath": "staticwebassets\\uploads\\44c33904-9de1-4e7f-8145-de2176f67e5e.avif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\45d61419-a874-42f1-81ca-6258c04d91f4.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\45d61419-a874-42f1-81ca-6258c04d91f4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\46aa587f-d699-478e-aa7f-f044e5a710dc.jfif",
+      "PackagePath": "staticwebassets\\uploads\\46aa587f-d699-478e-aa7f-f044e5a710dc.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\485353e6-719b-4c39-835f-23804582a7f3.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\485353e6-719b-4c39-835f-23804582a7f3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\4aa37b7d-f022-4dd7-9c2a-ebcaca4b32a3.jfif",
+      "PackagePath": "staticwebassets\\uploads\\4aa37b7d-f022-4dd7-9c2a-ebcaca4b32a3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\4e4ffe64-390c-4257-92b7-cec5ec0c29d0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4e4ffe64-390c-4257-92b7-cec5ec0c29d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\56d60ceb-5d43-4ad8-9a2e-fe18a21dcebc.jfif",
+      "PackagePath": "staticwebassets\\uploads\\56d60ceb-5d43-4ad8-9a2e-fe18a21dcebc.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\5ac7ba45-6d82-4976-80bb-bf6bce2f4c0c.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\5ac7ba45-6d82-4976-80bb-bf6bce2f4c0c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\5f56c081-befd-437a-a414-f0ffdac2921e.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\5f56c081-befd-437a-a414-f0ffdac2921e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\626f6a41-39fe-408c-8377-7a57143219aa.avif",
+      "PackagePath": "staticwebassets\\uploads\\626f6a41-39fe-408c-8377-7a57143219aa.avif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\69a9cfc2-3671-4caf-9ea9-682fbce2981d.jfif",
+      "PackagePath": "staticwebassets\\uploads\\69a9cfc2-3671-4caf-9ea9-682fbce2981d.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\6fd53a22-cd5a-457b-99c2-7b30f36485f3.webp",
+      "PackagePath": "staticwebassets\\uploads\\6fd53a22-cd5a-457b-99c2-7b30f36485f3.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\7cb46e68-bd3a-43c3-a8c0-f11ded540dab.webp",
+      "PackagePath": "staticwebassets\\uploads\\7cb46e68-bd3a-43c3-a8c0-f11ded540dab.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\7cc72099-1c55-408a-90a1-2df88d2afb5d.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\7cc72099-1c55-408a-90a1-2df88d2afb5d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\82cc0bfc-d7c4-4fea-95cc-ef638b6ee119.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\82cc0bfc-d7c4-4fea-95cc-ef638b6ee119.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\841bf04c-f08b-4e86-9568-18d9ad5bf4c2.jfif",
+      "PackagePath": "staticwebassets\\uploads\\841bf04c-f08b-4e86-9568-18d9ad5bf4c2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\862d65d6-f408-4602-a0d4-52c3c280b032.jpg",
+      "PackagePath": "staticwebassets\\uploads\\862d65d6-f408-4602-a0d4-52c3c280b032.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\8715149e-4370-48ef-9b4e-c4905f02e843.avif",
+      "PackagePath": "staticwebassets\\uploads\\8715149e-4370-48ef-9b4e-c4905f02e843.avif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\8894b1ac-cef4-45dd-be3a-8a0e0d76997e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8894b1ac-cef4-45dd-be3a-8a0e0d76997e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\8cc63568-e829-4158-8f26-660dcb13818a.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\8cc63568-e829-4158-8f26-660dcb13818a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\8e577e60-f919-4c14-a327-60b7b85d11ae.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\8e577e60-f919-4c14-a327-60b7b85d11ae.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\9d0db601-a010-4086-80ff-c4429ccb3738.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9d0db601-a010-4086-80ff-c4429ccb3738.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\a30032be-6050-443f-9ee7-557cf1c5b8c6.avif",
+      "PackagePath": "staticwebassets\\uploads\\a30032be-6050-443f-9ee7-557cf1c5b8c6.avif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\a311cd99-100a-4afc-8a80-e334cbc14671.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\a311cd99-100a-4afc-8a80-e334cbc14671.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\a440476a-c373-4ead-9e82-a2ec846f4d5b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a440476a-c373-4ead-9e82-a2ec846f4d5b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\adc8baac-ab1a-46f5-befe-cb6305260331.jpg",
+      "PackagePath": "staticwebassets\\uploads\\adc8baac-ab1a-46f5-befe-cb6305260331.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\b323298b-1ee9-4d03-8b96-82c358a4fc49.png",
+      "PackagePath": "staticwebassets\\uploads\\b323298b-1ee9-4d03-8b96-82c358a4fc49.png"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\b7ad6a7a-6cd9-4c97-ab46-b6e184925622.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\b7ad6a7a-6cd9-4c97-ab46-b6e184925622.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\bb6a051a-5369-4226-abc4-eae8f772df02.jfif",
+      "PackagePath": "staticwebassets\\uploads\\bb6a051a-5369-4226-abc4-eae8f772df02.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\bb9708fc-de3f-44c1-a54d-bccdc551739d.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\bb9708fc-de3f-44c1-a54d-bccdc551739d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\bc2fc3db-1afb-44ff-8601-45178b5228e2.jfif",
+      "PackagePath": "staticwebassets\\uploads\\bc2fc3db-1afb-44ff-8601-45178b5228e2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\bdd9739e-4857-4f63-b7e5-e996d3a84872.jfif",
+      "PackagePath": "staticwebassets\\uploads\\bdd9739e-4857-4f63-b7e5-e996d3a84872.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\c13f62cb-5972-48c1-b6a2-8c5b25ef9145.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c13f62cb-5972-48c1-b6a2-8c5b25ef9145.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\c23ec1cc-13f6-40b1-88e5-2f534c8cd177.webp",
+      "PackagePath": "staticwebassets\\uploads\\c23ec1cc-13f6-40b1-88e5-2f534c8cd177.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\c25eca0a-7ea5-4c54-85c1-51744288c0c6.jfif",
+      "PackagePath": "staticwebassets\\uploads\\c25eca0a-7ea5-4c54-85c1-51744288c0c6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\c5e334a1-e434-4bdd-8f7d-2e71e4f240ba.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\c5e334a1-e434-4bdd-8f7d-2e71e4f240ba.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\cb435f6e-055c-4ebc-8209-ec8d6c17446d.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\cb435f6e-055c-4ebc-8209-ec8d6c17446d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\cdbae2e7-1a0a-4bd9-9728-6428cf33ee13.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\cdbae2e7-1a0a-4bd9-9728-6428cf33ee13.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\ce5d7cb2-ac1c-4f87-a512-629c11747df3.jfif",
+      "PackagePath": "staticwebassets\\uploads\\ce5d7cb2-ac1c-4f87-a512-629c11747df3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\d3f98d48-414c-4759-840a-649ce92e7b2f.webp",
+      "PackagePath": "staticwebassets\\uploads\\d3f98d48-414c-4759-840a-649ce92e7b2f.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\d816c3ea-0dc0-472f-b602-01447114d3b6.webp",
+      "PackagePath": "staticwebassets\\uploads\\d816c3ea-0dc0-472f-b602-01447114d3b6.webp"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\d95efc87-c33f-4598-aad1-5052be05fca2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d95efc87-c33f-4598-aad1-5052be05fca2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\e542f7ed-072b-4cf7-938c-c0cae28ce9e3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e542f7ed-072b-4cf7-938c-c0cae28ce9e3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\ecf5ce51-f4de-4828-82ec-d98ce8c4c8f5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ecf5ce51-f4de-4828-82ec-d98ce8c4c8f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\wwwroot\\uploads\\ee62b71a-3b21-41c3-aa96-728ec8938949.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\ee62b71a-3b21-41c3-aa96-728ec8938949.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebLoginRegisterApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebLoginRegisterApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.WebLoginRegisterApi.props",
+      "PackagePath": "build\\WebLoginRegisterApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.WebLoginRegisterApi.props",
+      "PackagePath": "buildMultiTargeting\\WebLoginRegisterApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.WebLoginRegisterApi.props",
+      "PackagePath": "buildTransitive\\WebLoginRegisterApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

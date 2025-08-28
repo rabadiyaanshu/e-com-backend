@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\model\\generalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\model\\generalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\model\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\model\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\data\\generalformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\data\\generalformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\migrations\\generalform\\20250517065636_initialcreate_generalformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\migrations\\generalform\\20250517065636_initialcreate_generalformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\model\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\model\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\model\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\model\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\model\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\model\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\migrations\\generalform\\20250519044416_initgeneraldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\migrations\\generalform\\20250519044416_initgeneraldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|c:\\users\\anshu\\source\\repos\\webloginregisterapi\\webloginregisterapi\\migrations\\20250519044158_inituserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD26A006-C2E4-4398-B748-709BA061DA89}|WebLoginRegisterApi\\WebLoginRegisterApi.csproj|solutionrelative:webloginregisterapi\\migrations\\20250519044158_inituserdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\Message.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Model\\Message.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\Message.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Model\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:22:52.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:14:40.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\User.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\User.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:04:56.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAtwDsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:17:22.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:22:11.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\Notification.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Model\\Notification.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\Notification.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Model\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:21:01.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneralFormContext.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Data\\GeneralFormContext.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Data\\GeneralFormContext.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Data\\GeneralFormContext.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Data\\GeneralFormContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:07:31.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneralForm.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\GeneralForm.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Model\\GeneralForm.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\GeneralForm.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Model\\GeneralForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:35:40.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Program.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Program.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:15:05.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Data\\UserContext.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Data\\UserContext.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Data\\UserContext.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Data\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:04:52.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Controllers\\FormController.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Controllers\\FormController.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Controllers\\FormController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:10:02.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250519044416_InitGeneralDB.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Migrations\\GeneralForm\\20250519044416_InitGeneralDB.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Migrations\\GeneralForm\\20250519044416_InitGeneralDB.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Migrations\\GeneralForm\\20250519044416_InitGeneralDB.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Migrations\\GeneralForm\\20250519044416_InitGeneralDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:44:16.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250519044158_InitUserDB.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Migrations\\20250519044158_InitUserDB.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Migrations\\20250519044158_InitUserDB.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Migrations\\20250519044158_InitUserDB.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Migrations\\20250519044158_InitUserDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:41:59.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T04:55:55.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\appsettings.json",
+              "RelativeToolTip": "WebLoginRegisterApi\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T06:13:24.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Model\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Model\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:03:36.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250517065636_InitialCreate_GeneralFormContext.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Migrations\\GeneralForm\\20250517065636_InitialCreate_GeneralFormContext.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Migrations\\GeneralForm\\20250517065636_InitialCreate_GeneralFormContext.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Migrations\\GeneralForm\\20250517065636_InitialCreate_GeneralFormContext.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Migrations\\GeneralForm\\20250517065636_InitialCreate_GeneralFormContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:56:37.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Model\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\LoginRequest.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Model\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:51:16.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Model\\ForgotPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Model\\ForgotPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:52:36.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogoutRequest.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\LogoutRequest.cs",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Model\\LogoutRequest.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Model\\LogoutRequest.cs",
+              "RelativeToolTip": "WebLoginRegisterApi\\Model\\LogoutRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:15:17.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebLoginRegisterApi\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\WebLoginRegisterApi\\WebLoginRegisterApi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebLoginRegisterApi\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T10:30:46.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
