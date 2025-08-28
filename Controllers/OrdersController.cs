@@ -109,8 +109,8 @@ namespace WebLoginRegisterApi.Controllers
                     {
                         Title = reader["Title"].ToString(),
                         Value = Convert.ToInt32(reader["Value"]),
-                        Percentage = 0,              // 👈 અહીં પછી growth % logic મૂકી શકો
-                        Since = "Since last week"    // 👈 static રાખ્યું
+                        Percentage = 0,             
+                        Since = "Since last week"    
                     });
                 }
             }
