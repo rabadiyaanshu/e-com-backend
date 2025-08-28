@@ -12,7 +12,7 @@ namespace WebLoginRegisterApi.Data
 
         public DbSet<OrderModel> Orders { get; set; }
 
-        // ✅ Add this line to enable product queries
+       
         public DbSet<ProductModel> Products { get; set; }
     }
 }
